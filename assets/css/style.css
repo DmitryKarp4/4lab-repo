@@ -4,8 +4,8 @@
 }
 
 * {
-    padding: 0;
-    margin: 0;
+    padding: 16px;
+    margin: 16px;
     box-sizing: inherit;
     font-family: "Sixtyfour Convergence", sans-serif;
 }
